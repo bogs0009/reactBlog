@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam culpa id sequi ex, rerum corrupti blanditiis saepe sit, illo vitae dignissimos itaque placeat voluptatibus ipsum possimus veniam nulla. Necessitatibus, minus vero. Perferendis adipisci labore architecto exercitationem, dolorum perspiciatis, consequuntur eaque magni ipsum consequatur nostrum deserunt voluptates. Cum nam odit, fugiat, amet ea quo sint dolore doloremque officiis, exercitationem blanditiis nostrum. A, provident illo! Accusantium explicabo assumenda veniam tenetur iure animi? Facilis, dolorum eaque. Non officiis dolore facere consectetur pariatur ipsam ullam doloremque magni autem ipsum culpa et odit cumque similique quidem nobis quasi dignissimos, temporibus quo dicta aperiam! Rem, totam!",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam culpa id sequi ex, rerum corrupti blanditiis saepe sit, illo vitae dignissimos itaque placeat voluptatibus ipsum possimus veniam nulla. Necessitatibus, minus vero. Perferendis adipisci labore architecto exercitationem, dolorum perspiciatis, consequuntur eaque magni ipsum consequatur nostrum deserunt voluptates. Cum nam odit, fugiat, amet ea quo sint dolore doloremque officiis, exercitationem blanditiis nostrum. A, provident illo! Accusantium explicabo assumenda veniam tenetur iure animi? Facilis, dolorum eaque. Non officiis dolore facere consectetur pariatur ipsam ullam doloremque magni autem ipsum culpa et odit cumque similique quidem nobis quasi dignissimos, temporibus quo dicta aperiam! Rem, totam!",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web Dev Top Tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam culpa id sequi ex, rerum corrupti blanditiis saepe sit, illo vitae dignissimos itaque placeat voluptatibus ipsum possimus veniam nulla. Necessitatibus, minus vero. Perferendis adipisci labore architecto exercitationem, dolorum perspiciatis, consequuntur eaque magni ipsum consequatur nostrum deserunt voluptates. Cum nam odit, fugiat, amet ea quo sint dolore doloremque officiis, exercitationem blanditiis nostrum. A, provident illo! Accusantium explicabo assumenda veniam tenetur iure animi? Facilis, dolorum eaque. Non officiis dolore facere consectetur pariatur ipsam ullam doloremque magni autem ipsum culpa et odit cumque similique quidem nobis quasi dignissimos, temporibus quo dicta aperiam! Rem, totam!",
+      "author": "Wario",
+      "id": 3
+    },
+    {
+      "title": "hello ninja",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum eaque minus officia tempora nesciunt voluptates ipsum iure facilis corporis ipsa. Eveniet nam exercitationem tenetur ex similique laboriosam dolorem error ipsa impedit beatae esse laborum doloribus ullam, maxime, aperiam repellat animi voluptatem modi, odio quis! Sit blanditiis aperiam voluptatum amet rerum?",
+      "author": "Wario",
+      "id": 7
+    }
+  ]
+}
